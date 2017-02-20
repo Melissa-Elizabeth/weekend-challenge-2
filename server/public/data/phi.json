@@ -1,19 +1,19 @@
 {
 	"phirephiters": [
     {
-			"image" : "phi-weekend2-start-master/server/public/images/unicorgi.jpg",
+			"image" : "https://pbs.twimg.com/media/CfnzcsAUAAAfHhJ.jpg",
       "name" : "Melissa E Hare",
       "git_username" : "Melissa-Elizabeth",
       "shoutout" : ""
     },
     {
-      "image" : "phi-weekend2-start-master/server/public/images/unicorgi.jpg",
+      "image" : "http://cdn.akc.org/content/article-body-image/corgi_taco_header_.jpg",
       "name" : "Chad Sundberg",
       "git_username" : "chadsundberg",
       "shoutout" : "Celina!!  She taught me how to use two fingers to scroll in my open windows!  Oh, and I'd like to thank var taco!"
     },
     {
-      "image" : "phi-weekend2-start-master/server/public/images/unicorgi.jpg",
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/10/24/12/enhanced-buzz-32512-1319474518-13.jpg?no-auto",
       "name" : "Christine Pogatchnik",
       "git_username" : "kikipogo",
       "shoutout" : "Everyone"
@@ -25,36 +25,43 @@
       "shoutout" : "Yo! Thanks for that!"
     },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web04/2011/10/24/12/enhanced-buzz-32059-1319472148-34.jpg?no-auto",
       "name" : "Edmund Wippler",
       "git_username" : "edwippler",
       "shoutout" : ""
     },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web03/2011/10/24/11/enhanced-buzz-29382-1319470336-52.jpg?no-auto",
       "name" : "Jonny Holupchinski",
       "git_username" : "jonholup",
       "shoutout" : ""
     },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/10/24/12/enhanced-buzz-32542-1319472063-2.jpg?no-auto",
       "name" : "Catherine Jarocki",
       "git_username" : "cjaro",
       "shoutout" : "Thank you to the internet of resources!"
     },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/10/24/13/enhanced-buzz-32542-1319478126-29.jpg?no-auto",
       "name" : "Kris Jensen",
       "git_username" : "kristinejensen",
       "shoutout" : "Thank you to Luke, Kris, and Chris for being great instructors!"
     },
     {
+      "image":"https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/10/24/12/enhanced-buzz-32135-1319472603-7.jpg?no-auto",
       "name" : "Paul Dunkirk",
       "git_username" : "pauldunkirk",
       "shoutout" : "Phi peops rock!"
     },
     {
+      "image" : "https://farm4.static.flickr.com/3768/12194508406_6eca993cb4_b.jpg",
       "name" : "Celina",
       "git_username" : "celina",
       "shoutout" : "Peace out!"
     },
     {
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web04/2011/10/24/11/enhanced-buzz-32082-1319469916-30.jpg?no-auto",
       "name" : "Chris Stanton",
       "git_username" : "chris-stanton",
       "shoutout" : ""
@@ -72,26 +79,31 @@
       "shoutout" : "Love y'all "
     },
     {
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/10/24/13/enhanced-buzz-32114-1319477337-22.jpg?no-auto",
       "name" : "Paige Bystrom",
       "git_username" : "Radmint",
       "shoutout" : "Thanks to Phi cohort for being awesome, positive people! "
     },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/10/24/12/enhanced-buzz-32540-1319472266-0.jpg?no-auto",
       "name" : "Jeremy Leif",
       "git_username" : "JL-golf14",
       "shoutout" : "break down the Phirewalls of doubt!!!"
     },
     {
+   "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web04/2011/10/24/12/enhanced-buzz-32084-1319472382-44.jpg?no-auto",
    "name" : "Arrielle Kooiman",
    "git_username" : "Arrielle",
    "shoutout" : "Y'all have been PHInomenal"
  },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web04/2011/10/24/13/enhanced-buzz-32096-1319476045-33.jpg?no-auto",
       "name" : "Kris Szafranski",
       "git_username" : "kdszafranski",
       "shoutout" : "Thank you to Phi for your open, warm, and thoughtful speeches. You rekindle my faith in humanity!"
     },
     {
+      "image" : "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web03/2011/10/24/13/enhanced-buzz-11821-1319475641-12.jpg?no-auto",
       "name" : "Luke Schlangen",
       "git_username" : "lukeschlangen",
       "shoutout" : "Huge thanks to everyone in Phi for sharing such personal and inspiring stories about change."
